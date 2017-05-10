@@ -1,0 +1,8 @@
+package test.main;
+
+public class MainClass01 {
+	//실행순서가 시작되는 특별한 main 메소드
+	public static void main(String[] args){
+		
+	}
+}

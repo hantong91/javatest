@@ -1,0 +1,12 @@
+package test.main;
+
+public class MainClass01 {
+	//실행순서가 시작되는 특별한 main 메소드
+	public static void main(String[] args){
+		System.out.println("메인 메소드가 시작 되었습니다.");
+		
+		// 김구라 라는 문자 데이터를 java 에서 다룰려면?
+		
+		System.out.println("메인 메소드가 종료 됩니다.");
+	}
+}

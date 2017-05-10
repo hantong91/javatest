@@ -1,0 +1,11 @@
+package test.main;
+
+public class MainClass01 {// 이 클래스 안에 정의한것은 멤버라고함.
+	public static void main(String[] args) {// static멤버 method 
+		
+	}
+	
+	public static void test(){
+		
+	}
+}

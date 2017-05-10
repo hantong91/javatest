@@ -1,0 +1,14 @@
+package test.main;
+/*
+ * 	[ java 데이터 type]
+ *  2. 숫자형
+ *  
+ *  
+ *  - 정수형 : byte, short, int, long
+ *  - 실수형 : float, double
+ */
+public class MainClass02 {
+	public static void main(String[] args) {// main을 적고 ctrl+space하면 고른후 엔터
+		
+	}
+}
