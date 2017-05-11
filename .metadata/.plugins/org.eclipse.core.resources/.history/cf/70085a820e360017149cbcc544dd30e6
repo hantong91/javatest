@@ -1,0 +1,13 @@
+package test.main;
+
+import test.star.Marine;
+
+public class MainClass07 {
+	public static void main(String[] args) {
+		System.out.println("메인 메소드가 시작 되었습니다.");
+		//Marine type 객체를 생성해서
+		//참조값(id)를 이용해서 move()메소드 호출하기
+		new Marine().move();//이런식으로 코딩하면 호출하고 버리는 일회용
+		System.out.println("메인 메소드가 리턴 됩니다.");
+	}
+}

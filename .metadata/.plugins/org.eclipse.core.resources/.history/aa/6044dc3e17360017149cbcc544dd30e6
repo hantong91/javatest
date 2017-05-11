@@ -1,0 +1,12 @@
+package test.main;
+
+import test.auto.Car;
+public class MainClass01 {
+	//일반 멤버필드 정의하기
+	public String brand="";
+	
+	//일반멤버 메소드 정의하기
+	public static void main(String[] args) {
+		new Car().drive();
+	}
+}

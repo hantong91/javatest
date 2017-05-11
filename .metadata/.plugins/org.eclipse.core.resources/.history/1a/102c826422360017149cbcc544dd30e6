@@ -1,0 +1,16 @@
+package test.main;
+
+public class MainClass01 {
+	public static void main(String[] args) {
+		MainClass01.test1();
+		MainClass01.test2(num);//전달자의 타입과 일치해야함
+	}
+	
+	public static void test1(){
+		
+	}
+	
+	public static void test2(int num){
+		
+	}
+}

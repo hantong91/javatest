@@ -1,0 +1,7 @@
+package test.star;
+
+public class Marine {
+	public static void move(){
+		System.out.println("마린이 움직여요!");
+	}
+}

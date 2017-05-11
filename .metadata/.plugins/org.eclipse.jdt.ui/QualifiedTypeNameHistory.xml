@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="test.palne.AirPlane"/>
+<fullyQualifiedTypeName name="test.plane.AirPlane"/>
+<fullyQualifiedTypeName name="test.star.Marine"/>
+<fullyQualifiedTypeName name="test.auto.Car"/>
+<fullyQualifiedTypeName name="test.gura.Util"/>
+</qualifiedTypeNameHistroy>

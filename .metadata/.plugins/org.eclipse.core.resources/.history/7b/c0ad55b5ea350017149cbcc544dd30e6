@@ -1,0 +1,13 @@
+package test.main;
+
+public class MainClass04 {
+	public static void main(String[] args) {
+		System.out.println("메인 메소드가 시작되었습니다.");
+		
+		System.out.println("메인 메소드가 리턴됩니다.");
+	}
+	
+	public static void getNum(){
+		
+	}
+}

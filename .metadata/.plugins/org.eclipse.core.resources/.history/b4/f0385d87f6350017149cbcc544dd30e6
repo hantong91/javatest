@@ -1,0 +1,11 @@
+package test.star;
+
+public class Marine {
+	//일반 멤버 메소드
+	public void move(){
+		System.out.println("마린이 움직여요!");
+		
+		//클래스는 설계도이다.
+		// heap 영역에 생성되는것은 객체이고 그 객체를 만들려면 new 클래스명()  하면 됨
+	}
+}
